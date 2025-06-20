@@ -5,4 +5,5 @@ The goal was to apply advanced econometric techniques to estimate demand, evalua
 
 Files: 
 Project 3: R file containing all the code 
+
 Kiwi_Bubbles_p2: Dataset
